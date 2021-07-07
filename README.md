@@ -34,7 +34,7 @@ in the days, 2004. yeh, i am serious- :-)
 <p align='center'><i>Mail: <b><i>wuseman@nr1.nu</b></i></i></h3></p></i></h2>
 
 <h1 align='center'><i>Greetings!</i></h1>
-<p>A special thank you <b><i>m1st</b></i>, <i>Sanix</b></i><b>, <b><i>C0rpz</b></i> and <b><i>Clorox</b></i> and to all my old friends in pciso scene and especially to <a href="https://torrentfreak.com/member-of-busted-scene-piracy-group-sparks-avoids-prison-sentence-210520/">Raid</a> and all others who are still alive and online, many talented who have sadly passed away. <a href="https://thehackernews.com/2020/05/ukrainian-hacker-arrested.html">Sanix was unfortunately arrested in 2019.</a> You all are awesome! </a></b>- Time flies really, for rest of you all out there: Stay safe and have fun and <b>NEVER GIVE UP!</b>
+<p>A special thank you <b><i>m1st</b></i>, <b><i>Sanix</b></i>, <b><i>C0rpz</b></i> and <b><i>Clorox</b></i> and to all my old friends in pciso scene and especially to <a href="https://torrentfreak.com/member-of-busted-scene-piracy-group-sparks-avoids-prison-sentence-210520/">Raid</a> and all others who are still alive and online, many talented who have sadly passed away. <a href="https://thehackernews.com/2020/05/ukrainian-hacker-arrested.html">Sanix was unfortunately arrested in 2019.</a> You all are awesome! </a></b>- Time flies really, for rest of you all out there: Stay safe and have fun and <b>NEVER GIVE UP!</b>
 
 -----
 
