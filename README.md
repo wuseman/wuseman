@@ -1,4 +1,8 @@
-Feel free to support my work: http://paypal.me/wuseman1
+Feel free to support my work: 
+
+https://paypal.me/wuseman1
+https://buymeacoffee.com/wuseman1
+
 
 ```bash
     _         `-._     `-.     `.   \      :      /   .'     .-'     _.-'      _
