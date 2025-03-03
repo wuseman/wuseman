@@ -1,3 +1,5 @@
+Feel free to support my work: http://paypal.me/wuseman1
+
 ```bash
     _         `-._     `-.     `.   \      :      /   .'     .-'     _.-'      _
  `--._     `-._    `-.    `.  `.    :    .'  .'    .-'   =  =      = '     _.--'
