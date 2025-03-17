@@ -4,6 +4,11 @@ Most active programming day since `Jul 2022` was `Sat Aug 13 2022` with `23 hrs 
 
 * [Paypal](https://paypal.me/wuseman1)
 
+* ### Feel free to visit my websites online
+
+* [Adb Shell](https://www.adb-shell.com)
+* [Nr1 (wuseman's wiki)](https://www.nr1.nu)
+
 ```bash
     _         `-._     `-.     `.   \      :      /   .'     .-'     _.-'      _
  `--._     `-._    `-.    `.  `.    :    .'  .'    .-'   =  =      = '     _.--'
