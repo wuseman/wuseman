@@ -1,8 +1,3 @@
-Nr1 Wiki......: https://www.nr1.nu
-Android Wiki..: https://android.nr1.nu
-
----
-
 ```perl
     _      Nr1`-._     `-.     `.   \      :      /   .'     .-'     _.-'      _
  `--._     `-._    `-.    `.  `.    :    .'  .'    .-'  Gentoo Power'     _.--'
