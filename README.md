@@ -1,3 +1,5 @@
+### You’ll find me on Libera.Chat if you need to get in touch — username: wuseman. 
+
 ```bash
     _      Nr1`-._     `-.     `.   \      :      /   .'     .-'     _.-'      _
  `--._     `-._    `-.    `.  `.    :    .'  .'    .-' Gentoo = Power'     _.--'
