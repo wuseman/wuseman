@@ -7,7 +7,9 @@ I have officially migrated all my development projects and tools to my own indep
 ### 🚀 Find my work and updates here:
 
 * **Linux Shell & Embedded Systems:** [linux-shell.se](https://www.linux-shell.se)
+    * *Tor Onion:* [rh5wjf5vwkwf4...euid.onion](http://rh5wjf5vwkwf4y7loq3ulmkjrryb6jurlkcs4bfcaxgdfgv53lydeuid.onion/)
 * **Android Security & Shell Research:** [android-shell.se](https://www.android-shell.se)
+    * *Tor Onion:* [l56uwwamjj2qv...txid.onion](http://l56uwwamjj2qv3effc2r2sfssv23vdeuonjgsy3egpir4dna3wqmtxid.onion/)
 
 ---
 
